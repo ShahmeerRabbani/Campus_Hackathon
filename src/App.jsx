@@ -5,7 +5,7 @@ import Signup from './screens/Auth/Signup'
 import AddCart from './screens/User/AddCart'
 import Home from './screens/User/Home'
 import Product from './screens/User/Product'
-import Admin from './screens/User/dashboard'
+import Admin from './screens/User/Dashboard.jsx'
 
 const App = () => {
 
